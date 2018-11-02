@@ -1,7 +1,1 @@
-##Shiara
-
-
-##Boingo
-
-
-##Wakame
+This is a test page. 
