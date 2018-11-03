@@ -1,0 +1,34 @@
+h1{
+	color:#abcdff;
+	size:60px;
+	background-color: black
+
+}
+
+p{
+	color: red;
+	opacity: 3%
+}
+
+li:nth-child(odd){
+	background: grey;
+	width: 300px
+}
+li:nth-child(even){
+	background: green;
+	width: 300px
+
+}
+body{
+background-color: #6666
+
+}
+.button:hover{
+	color:purple;
+	background:grey;
+	text-decoration:none;
+	size:30px;
+	width: 200px;
+	border-radius: 300px;
+}
+
