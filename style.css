@@ -1,3 +1,7 @@
+*{
+box-sizing: border-box
+}
+
 h1{
 	color:#abcdff;
 	size:60px;
@@ -23,12 +27,19 @@ body{
 background-color: #6666
 
 }
+
+
+.button{
+	size:30px;
+	width: 200px;
+	border-radius: 300px;
+	color: grey;
+	background: purple
+	
+}
 .button:hover{
 	color:purple;
 	background:grey;
 	text-decoration:none;
-	size:30px;
-	width: 200px;
-	border-radius: 300px;
 }
 
