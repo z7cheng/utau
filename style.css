@@ -6,11 +6,12 @@ h1{
 	color:#abcdff;
 	size:60px;
 	background-color: black
+	width: 300px
 
 }
 
 p{
-	color: red;
+	color: green;
 	opacity: 3%
 }
 
